@@ -1,2 +1,2 @@
 # JavaScript-Algorithms
-All the JavaScript-Algorithms 
+All Algorithms are written in js.
